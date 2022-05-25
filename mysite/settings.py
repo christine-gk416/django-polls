@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-c*rcydefe@=4-^996a=)yrw=t*iah^i!!^b03(u2t4=_0**b6s
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost']
-ALLOWED_ORIGINS = ['https://8000-christinegk-djangopolls-ps166jjy2uj.ws-eu45.gitpod.io']
+ALLOWED_ORIGINS = ['https://8000-christinegk-djangopolls-ps166jjy2uj.ws-eu46.gitpod.io']
 CSRF_TRUSTED_ORIGINS = ALLOWED_ORIGINS.copy()
 
 
